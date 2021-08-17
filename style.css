@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(208, 237, 250);
+}
+
+h1{
+    text-align: center;
+    margin-top: 0%;
+    font-family: 'Anton', sans-serif;
+  
+    line-height: 4rem;
+    font-size: 4rem;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    background-color: #b5dff6;
+}
+#cal{
+    border: 2px solid;
+    width: 72%;
+    border-radius: 18px;
+    padding-bottom: 1%;
+}
+
+.box-b button{
+ margin: 2px;
+ background-color: white;
+ font-size: 2rem;
+}
+#backbutton{
+ margin: 2px;
+ background-color: rgb(247, 197, 151);
+ font-size: 2rem;
+}
+#resultbutton{
+ margin: 2px;
+ background-color: rgb(247, 197, 151);
+ font-size: 2rem;
+}
+
+#cal input{
+    margin-bottom: 3%;
+    margin-top: 3%;
+   
+    height: 111px;
+     
+}
+
+
+/* footer */
+.foot {
+    background-color: white;
+    text-align: center;
+     
+  }
+  
+  #footer p {
+    color: gray;
+    margin-top: 2%;
+  }
+  .logof {
+    padding: 0% 1%;
+  }
